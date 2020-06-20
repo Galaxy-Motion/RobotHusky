@@ -5,4 +5,4 @@ Here, we provide a slide and a video to introduce our robot in detail, as well a
 
 ![image](https://github.com/Galaxy-Motion/RobotHusky/blob/master/3D%20Model/robothusky.jpg)
 
-[![asciicast](https://github.com/Galaxy-Motion/RobotHusky/blob/master/Video/RobotHusky.mp4)
+[![mp4](https://github.com/Galaxy-Motion/RobotHusky/blob/master/Video/RobotHusky.mp4)
