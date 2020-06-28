@@ -4,4 +4,5 @@ A precision agriculture robot which can provide growth health information during
 Here, we provide a slide and a video to introduce our robot in detail, as well as related model diagrams and codes.
 
 ![image](https://github.com/Galaxy-Motion/RobotHusky/blob/master/3D%20Model/robothusky.jpg)
+![video](https://www.youtube.com/watch?v=WHbbtU-Q9-k&feature=youtu.be)
 
