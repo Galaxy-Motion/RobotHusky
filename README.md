@@ -5,6 +5,6 @@ Here, we provide a slide and a video to introduce our robot in detail, as well a
 
 ![image](https://github.com/Galaxy-Motion/RobotHusky/blob/master/3D%20Model/robothusky.jpg)
 
-1. [Loam_livox: A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV](https://arxiv.org/abs/1909.06700)
+<a href="https://youtu.be/WHbbtU-Q9-k" target="_blank"><img src="pics/video_loam.png" alt="video" width="45%" /></a>
 
 
