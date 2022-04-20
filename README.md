@@ -7,5 +7,6 @@ Here, we provide a slide and a video to introduce our robot in detail, as well a
 
 <!-- ![video](https://github.com/Galaxy-Motion/RobotHusky/blob/master/Video/RobotHusky.mp4) -->
 
-[![Watch the video](https://github.com/Galaxy-Motion/RobotHusky/blob/master/3D%20Model/robothusky.jpg)](https://github.com/Galaxy-Motion/RobotHusky/blob/master/Video/RobotHusky.mp4)
+<!-- [![Watch the video](https://github.com/Galaxy-Motion/RobotHusky/blob/master/3D%20Model/robothusky.jpg)](https://github.com/Galaxy-Motion/RobotHusky/blob/master/Video/RobotHusky.mp4) -->
 
+[![asciicast](https://github.com/Galaxy-Motion/RobotHusky/blob/master/3D%20Model/robothusky.jpg)](https://github.com/Galaxy-Motion/RobotHusky/blob/master/Video/RobotHusky.mp4)
